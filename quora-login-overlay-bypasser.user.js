@@ -1,10 +1,13 @@
 // ==UserScript==
-// @name         Quora Non Logged Nag ByPasser
+// @name         Quora Login Overlay Bypasser
 // @namespace    MirazMac\UserScripts\QuoraBypasser
 // @version      0.1
-// @description  Bypass those annoying as fuck sign-in nags from Quora
+// @license      The MIT License
+// @description  Bypass those annoying as fuck sign-in overlays from Quora
 // @author       Miraz Mac
 // @icon         https://qsf.ec.quoracdn.net/-3-images.favicon.ico-26-3f34badcb59c8f6c.ico
+// @homepageURL  https://github.com/MirazMac/quora-login-overlay-bypasser-userscript
+// @supportURL   https://github.com/MirazMac/quora-login-overlay-bypasser-userscript/issues
 // @match        *://www.quora.com/*
 // @grant        none
 // ==/UserScript==
