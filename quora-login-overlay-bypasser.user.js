@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Bypass those annoying as fuck sign-in nags from Quora
 // @author       Miraz Mac
+// @icon         https://qsf.ec.quoracdn.net/-3-images.favicon.ico-26-3f34badcb59c8f6c.ico
 // @match        *://www.quora.com/*
 // @grant        none
 // ==/UserScript==
