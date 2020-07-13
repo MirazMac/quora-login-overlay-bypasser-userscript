@@ -37,7 +37,7 @@
     baseSignUpForm.style.display = 'none';
 
     // Add additional css fix, in case the methods above don't work
-    var css = '.signup_wall_prevent_scroll{overflow:auto!important} .signup_wall_prevent_scroll .SiteHeader, .signup_wall_prevent_scroll .LoggedOutFooter, .signup_wall_prevent_scroll .ContentWrapper {filter:none!important}';
+    var css = '.signup_wall_prevent_scroll{overflow:auto!important} .signup_wall_prevent_scroll .SiteHeader, .signup_wall_prevent_scroll .LoggedOutFooter, .signup_wall_prevent_scroll .ContentWrapper, .signup_wall_prevent_scroll #root {filter:none!important}';
     var head = document.head || document.getElementsByTagName('head')[0];
     var style = document.createElement('style');
     style.type = 'text/css';
